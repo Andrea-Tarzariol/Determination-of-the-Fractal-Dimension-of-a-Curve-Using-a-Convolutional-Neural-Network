@@ -1,5 +1,10 @@
 ------------------------------------------Work in Progress------------------------------------------------------
 
+Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convolutional Neural Network
+
+Supervisor: prof. Guido Boffetta
+Co-Supervisor: prof. Matteo Osella
+
 Abstract
 
 In this project I created a CNN (Convolutional Neural Network) for the determination of the fractal dimension of curves.
