@@ -4,9 +4,9 @@
 
 **University of Turin**
 
-**Supervisor**: prof. Guido Boffetta
+**Supervisor**: Prof. Guido Boffetta
 
-**Co-Supervisor**: prof. Matteo Osella
+**Co-Supervisor**: Prof. Matteo Osella
 
 **External Examiner**: Dr. Filippo Valle
 
