@@ -2,11 +2,14 @@
 
 Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convolutional Neural Network
 
+
 University of Turin
+
 
 Supervisor: prof. Guido Boffetta
 
 Co-Supervisor: prof. Matteo Osella
+
 
 Abstract
 
