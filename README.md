@@ -20,5 +20,6 @@ The findings show an overall better result for the CNN.
 I finally used the CNN and box counting to determine the fractal dimensions of portions of the West Coast of Great Britain.
 
 
-## Organisation of files
+## Files
+
 
