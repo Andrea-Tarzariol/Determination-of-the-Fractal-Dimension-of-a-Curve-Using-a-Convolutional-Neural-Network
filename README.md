@@ -22,4 +22,11 @@ I finally used the CNN and box counting to determine the fractal dimensions of p
 
 ## Files
 
+Inside **Model** you will find the script CNN.ipynb for training a CNN.
+In order to train mine I used the GPU available inside google Colab.
+The two CNN I trained are under MainModel and No_Aug Model, with their respective training history.
 
+Inside **CNN Estimate** you will find the script to evaluate the performance of the CNN in the three condition studied: 
+- curves with gaps
+- curves with noise
+- -curves with limited number of points (portion)
