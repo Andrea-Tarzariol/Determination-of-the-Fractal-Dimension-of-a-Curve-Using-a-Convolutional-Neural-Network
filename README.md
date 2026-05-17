@@ -29,7 +29,7 @@ The two CNN I trained are under MainModel and No_Aug Model, with their respectiv
 Inside **CNN Estimate** you will find the script to evaluate the performance of the CNN in the three conditions studied: 
 - curves with gaps
 - curves with noise
-- -curves with limited number of points (portion)
+- curves with limited number of points (portion)
 
 The equivalent scripts for the box counting can be found inside the folder **Box Counting Estimates**.
 
