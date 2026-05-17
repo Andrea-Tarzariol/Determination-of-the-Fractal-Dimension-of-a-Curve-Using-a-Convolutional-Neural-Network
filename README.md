@@ -8,6 +8,8 @@
 
 **Co-Supervisor**: prof. Matteo Osella
 
+**External Examiner**: Dr. Filippo Valle
+
 
 ## Abstract
 
