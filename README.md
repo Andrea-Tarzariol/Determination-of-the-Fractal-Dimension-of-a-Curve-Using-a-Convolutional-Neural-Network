@@ -2,6 +2,8 @@
 
 Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convolutional Neural Network
 
+University of Turin
+
 Supervisor: prof. Guido Boffetta
 Co-Supervisor: prof. Matteo Osella
 
@@ -13,4 +15,6 @@ Thanks to the property of this equation I can associate the theoretical fractal 
 Similar works only used the box counting fractal dimension.
 This allows me to compare the performance of the CNN with the one of the box counting technique.
 The findings show an overall better result for the CNN.
-I finally used the CNN and box counting to determine the fractal dimensions of portions of the West Coast of Great Britain. 
+I finally used the CNN and box counting to determine the fractal dimensions of portions of the West Coast of Great Britain.
+
+
