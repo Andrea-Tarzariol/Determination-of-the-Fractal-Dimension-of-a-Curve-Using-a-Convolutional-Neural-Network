@@ -40,4 +40,4 @@ The script for the creation of the curves can be found inside the folder **Datas
 **Results** holds the script used for comparing the performances.
 
 Finally, inside **Coast Analysis** can be found the script used for the estimation of the fractal dimension of the West Coast of Great Britain.
-Note that you need to downaload the .shp file from GADM (https://gadm.org/).
+Note that you need to downaload the .shp file of the UK from GADM (https://gadm.org/).
