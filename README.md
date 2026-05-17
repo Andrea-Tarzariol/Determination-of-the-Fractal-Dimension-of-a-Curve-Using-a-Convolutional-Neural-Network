@@ -5,6 +5,7 @@ Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convol
 University of Turin
 
 Supervisor: prof. Guido Boffetta
+
 Co-Supervisor: prof. Matteo Osella
 
 Abstract
