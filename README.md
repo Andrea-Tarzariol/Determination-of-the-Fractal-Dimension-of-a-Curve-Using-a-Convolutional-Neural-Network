@@ -75,7 +75,7 @@ These limitations are the reasons why I introduce three forms of data augmentati
 
 In order to evaluate the impact of this specific form of training I then trained a second CNN without any form of data augmentation.
 
-The results shows that the CNN performs significantly better than the Box Counting in all three cases, with remarkable results also outside the parameters of training. 
+The results shows that the CNN performs significantly better than the Box Counting in all three cases, with remarkable results also outside the parameters of training (red background). 
 
 Portions of curves:
 <img width="1361" height="707" alt="portions" src="https://github.com/user-attachments/assets/a01bd5c9-2308-474d-a795-64ba4e7271a5" />
