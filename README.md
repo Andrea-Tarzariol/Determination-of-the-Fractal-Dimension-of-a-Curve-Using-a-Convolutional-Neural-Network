@@ -98,7 +98,9 @@ For the 73 portions:
 
 For the 13 portions:
 
-
 <img width="772" height="493" alt="13" src="https://github.com/user-attachments/assets/62825d09-45d8-45d5-b2b8-faa40e3ed470" />
 
 <img width="589" height="547" alt="plot13" src="https://github.com/user-attachments/assets/8ac20b17-5622-4fc3-983f-9e38e2c67c79" />
+
+The CNN and the box-counting method provide qualitatively consistent results.
+The Box Counting has the tendency to underestimate the fractal dimension, as was also visible in the synthetic curves. This led me to believe that the CNN provides the most reliable results.
