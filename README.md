@@ -85,3 +85,20 @@ Curves with gaps:
 <img width="1362" height="714" alt="gaps" src="https://github.com/user-attachments/assets/52016415-e8ce-4dfd-a85f-0f8dae1d07d9" />
 
 I finally used the CNN to study the West Coast of Great Britain.
+I divided it in two different ways: 73 portions of 10.000 point, and 13 of 56.153 points.
+In this way I could verify how the performance changes at different scales.
+
+I represent the results with a CNN vs Box Counting plot and with a color scale of the different portion of coastline.
+
+For the 73 portions:
+
+<img width="745" height="483" alt="73" src="https://github.com/user-attachments/assets/7c7358e4-527d-469f-85f4-221f14b8fca8" />
+
+<img width="589" height="547" alt="plot73" src="https://github.com/user-attachments/assets/ec7f2145-2aea-46a3-be5d-f7b5ca5176c5" />
+
+For the 13 portions:
+
+
+<img width="772" height="493" alt="13" src="https://github.com/user-attachments/assets/62825d09-45d8-45d5-b2b8-faa40e3ed470" />
+
+<img width="589" height="547" alt="plot13" src="https://github.com/user-attachments/assets/8ac20b17-5622-4fc3-983f-9e38e2c67c79" />
