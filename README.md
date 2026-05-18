@@ -1,5 +1,3 @@
-------------------------------------------Work in Progress------------------------------------------------------
-
 # Master's Thesis: Determination of the Fractal Dimension of Curves Using a Convolutional Neural Network
 
 **University of Turin**
@@ -86,3 +84,4 @@ Images with noise:
 Curves with gaps:
 <img width="1362" height="714" alt="gaps" src="https://github.com/user-attachments/assets/52016415-e8ce-4dfd-a85f-0f8dae1d07d9" />
 
+I finally used the CNN to study the West Coast of Great Britain.
