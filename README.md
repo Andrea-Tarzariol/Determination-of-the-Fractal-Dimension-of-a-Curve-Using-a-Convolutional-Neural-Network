@@ -55,12 +55,23 @@ $$
 \qquad g_0(z) = z
 $$
 
-The parameter **K** is linked with the fractal dimension **D** by the equation:
+The parameter **K** is linked with the fractal dimension **D**, of the curve generated, by the equation:
 
 $$
 D = 1 + \frac{k}{8}
 $$
 
 I used this property to create a dataset of curves with labels given by the theoretical fractal dimension.
+The curves are made of 20.000 points, and I store them as NumPy arrays.
+The dataset is then used to train a CNN, with the aim of creating a model capable of outperforming the Box Counting technique.
 
+The Box Counting suffers of some limitations:
+- it can not work with discontinuos curves
+- the image must contain only the curve and not element like noise
+- with limited portion of curves it can underestimate the fractal dimension
+
+These limitations are the reasons why I introduce three forms of data augmentations:
+- curves with gaps
+- images of curves with noise
+- images of portion of curves
 
