@@ -65,8 +65,8 @@ The dataset is then used to train a CNN, with the aim of creating a model capabl
 
 The Box Counting suffers of some limitations:
 - it can not work with discontinuos curves
-- the image must contain only the curve and not element like noise
-- with limited portion of curves it can underestimate the fractal dimension
+- the image must contain only the curve
+- with a limited portion of the curve it can underestimate the fractal dimension
 
 These limitations are the reasons why I introduce three forms of data augmentations:
 - curves with gaps (from 0 to 9 gaps)
