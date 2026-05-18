@@ -46,7 +46,7 @@ Note that you need to downaload the .shp file of the UK from GADM (https://gadm.
 
 ## Overview
 
-I used the algorithm described in "A Fast Algorithm for Simulating the Chordal Schramm–Loewner Evolution", by Tom Kennedy, to create fractal curves. 
+I used the algorithm described in the article "A Fast Algorithm for Simulating the Chordal Schramm–Loewner Evolution", by Tom Kennedy, to create fractal curves. 
 The Schramm-Loewner Evolution equation is:
 
 $$
@@ -58,7 +58,7 @@ $$
 The parameter **K** is linked with the fractal dimension **D** by the equation:
 
 $$
-D = 1 + \fract{k}{8}
+D = 1 + \frac{k}{8}
 $$
 
 I used this property to create a dataset of curves with labels given by the theoretical fractal dimension.
