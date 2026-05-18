@@ -71,7 +71,10 @@ The Box Counting suffers of some limitations:
 - with limited portion of curves it can underestimate the fractal dimension
 
 These limitations are the reasons why I introduce three forms of data augmentations:
-- curves with gaps
-- images of curves with noise
-- images of portion of curves
+- curves with gaps (from 0 to 9 gaps)
+- images of curves with noise (from 0 to 7.5%)
+- images of portion of curves (from 20.000 to 1.000 points)
 
+In order to evaluate the impact of this specific form of training I then trained a second CNN without any form of data augmentation.
+
+The results shows that the CNN performs significantly better than the Box Counting in all three cases, with remarkable results also outside the parameters of training. 
